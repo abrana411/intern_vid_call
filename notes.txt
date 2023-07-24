@@ -1,0 +1,12 @@
+Packages:-
+1 -> cloud firestore : To use the cloud firestore API (basically enables us to connect to firestore in firebase)
+2 -> firebase auth : To use the firebase authentication API
+3 -> firebase core : Enable us to connect to multiple firebase app (uses firebase core API)
+4 -> google sign in : Enabling us to do google sign in 
+5 -> jitsi_meet_wrapper: for the meeting setup (the api)
+6 -> intl: For the date formatting
+
+
+Forebase setup:-
+1 -> enagle google sign in
+2 -> also make the cloud firestore

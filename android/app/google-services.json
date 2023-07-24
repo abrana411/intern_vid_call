@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "639343202754",
+    "project_id": "vid-call-66821",
+    "storage_bucket": "vid-call-66821.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639343202754:android:e0fdcf0deb437076b3c65b",
+        "android_client_info": {
+          "package_name": "com.example.vid_call"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639343202754-vkbuo1ef25nvkkl2efsumdbfrvfrdmjd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vid_call",
+            "certificate_hash": "a5cdedc3fac5f0c27aba596e188188e219e73c79"
+          }
+        },
+        {
+          "client_id": "639343202754-so6rmuetpjdmskjsmikqu28ngsjl2v5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfj59xWQNSGhQYdnHmv4QcwoAkwvh_X5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639343202754-q162d7chj9k6t8mkergma6ve6vgsfv46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
